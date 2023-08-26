@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="shopsmart.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<?xml-stylesheet href="shopsmart.xsl" type="text/xsl"?>
+<products>
+    <product>
+      <id>1</id>
+      <name>Laptop</name>
+      <price>999.99</price>
+      <description>Powerful laptop with great features.</description>
+    </product>
+
+    <product>
+      <id>2</id>
+      <name>Smartphone</name>
+      <price>599.99</price>
+      <description>Advanced smartphone with high-resolution camera.</description>
+    </product>
+
+    <product>
+      <id>3</id>
+      <name>Tablet</name>
+      <price>349.99</price>
+      <description>Portable tablet for work and entertainment.</description>
+    </product>
+    
+    <product>
+      <id>4</id>
+      <name>Headphones</name>
+      <price>129.99</price>
+      <description>Wireless over-ear headphones with noise cancellation.</description>
+    </product>
+  
+</products>
+  
