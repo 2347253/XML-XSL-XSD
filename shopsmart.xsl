@@ -4,7 +4,7 @@
 <xsl:template match="/products">
     <html>
         <body>
-            <h1>Movie List</h1>
+            <h1>Product List</h1>
             <table border="1">
                 <tr>
                     <th>ID</th>
