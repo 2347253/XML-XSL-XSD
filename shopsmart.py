@@ -30,3 +30,20 @@ else:
     print("Validation errors:")
     print("Validation Result :",validation_result)
     print(schema.error_log)
+
+
+'''
+
+
+shopsmart.xml - which defines the xml form data that we want to convert into a HTML
+
+shopsmart.xsl - the extensible stylesheet which defines the style of how the 
+xml data is to be structured
+
+shopsmart.xsd - the schema file to which the xml corresponds to with appropriate tags
+
+shopsmart.py - python script to read both xml as well as the xsl file and create a HTML file 
+and create a validation logic to compare the created html and the existing xml schema
+
+shopsmart.html  -  the Dynamic html content that is created using the python script
+'''    
